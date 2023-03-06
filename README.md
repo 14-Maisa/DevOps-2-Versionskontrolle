@@ -13,5 +13,4 @@ Das ist mein zweiter Versuch, eine Änderung direkt über Visual Studio Code zu 
 Jawohl, ich habs auch geschafft :)!
 Siehst du meine Nachricht? 
 =======
-Das ist mein zweiter Versuch, eine Änderung direkt über Visual Studio Code zu machen.
->>>>>>> fbbf185a685109448f494a457b527b3ad41f43a0
+Ja ich seh sie und lösche grad noch einen doppelten Eintrag
