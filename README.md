@@ -20,3 +20,5 @@ Ich ändere jetzt etwas.
 =======
 Ja ich seh sie und lösche grad noch einen doppelten Eintrag
 >>>>>>> 8c1aa44a6a767a6327b81baf475467038fbe96f4
+
+Tüdeldüdeldü, Änderungen hier
