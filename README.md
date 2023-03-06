@@ -15,3 +15,4 @@ Siehst du meine Nachricht?
 =======
 Das ist mein zweiter Versuch, eine Änderung direkt über Visual Studio Code zu machen.
 >>>>>>> fbbf185a685109448f494a457b527b3ad41f43a0
+Ich ändere jetzt etwas.
