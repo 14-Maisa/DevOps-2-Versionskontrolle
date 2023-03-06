@@ -27,4 +27,15 @@ diese sehen so aus wie hier, das ist von Andrea.
 Änderungen zurück. 
 
 
+<<<<<<< HEAD
 Das ist eine eigene Branch-Änderung
+=======
+Eintrag in meinem Branch.
+
+>>>>>>> Maisa
+
+
+
+Nochmals :)
+
+
