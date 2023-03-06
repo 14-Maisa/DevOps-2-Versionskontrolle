@@ -22,7 +22,7 @@ Ja ich seh sie und lösche grad noch einen doppelten Eintrag
 >>>>>>> 8c1aa44a6a767a6327b81baf475467038fbe96f4
 
 Ich mache Änderungen in  meinem eigenen Branch
-diese sehen so aus
+diese sehen so aus wie hier, das ist von Andrea.
 
 Änderungen zurück. 
 
