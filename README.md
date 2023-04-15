@@ -21,10 +21,21 @@ Ich ändere jetzt etwas.
 Ja ich seh sie und lösche grad noch einen doppelten Eintrag
 >>>>>>> 8c1aa44a6a767a6327b81baf475467038fbe96f4
 
-Tüdeldüdeldü, Änderungen hier
+Ich mache Änderungen in  meinem eigenen Branch
+diese sehen so aus wie hier, das ist von Andrea.
 
 Änderungen zurück. 
 
 
+<<<<<<< HEAD
+Das ist eine eigene Branch-Änderung
+=======
 Eintrag in meinem Branch.
+
+>>>>>>> Maisa
+
+
+
+Nochmals :)
+
 
